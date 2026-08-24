@@ -29,4 +29,5 @@ gcc virtual_dac_simulator.c -o virtual_dac
 For an 8-bit DAC with a 5 V reference, the simulator calculates the analog output corresponding to the entered digital code.
 
 ## Author
-Ankita Khedagi
+Ankita Malleshi Khedagi 
+
